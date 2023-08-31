@@ -3,6 +3,10 @@
   width: 30px;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .navbar {
   background-color: #303b4f;
 }
